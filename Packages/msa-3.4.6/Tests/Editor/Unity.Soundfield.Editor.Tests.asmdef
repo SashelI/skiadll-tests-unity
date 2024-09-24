@@ -1,0 +1,17 @@
+{
+    "name": "Unity.Soundfield.Editor.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ae65dd88642f040c5b50e9a2a1be4c43",
+        "GUID:ec0decbdcf79549d688c3d9982a47277"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

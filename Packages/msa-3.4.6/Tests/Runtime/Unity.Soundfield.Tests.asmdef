@@ -1,0 +1,16 @@
+{
+    "name": "Unity.Soundfield.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5b479b75ad5f54d56a3641d83ec1e21d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

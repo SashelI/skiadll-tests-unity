@@ -1,0 +1,29 @@
+{
+    "name": "com.magicleap.soundfield",
+    "displayName": "Magic Leap Soundfield Audio",
+    "version": "3.4.6-240418.125575.a7b4d14",
+    "unity": "2022.2",
+    "description": "Magic Leap Soundfield Audio 3",
+    "lastGUID":"853897668d49743fd89d8e7fb2ebea29",
+    "currentGUID":"853897668d49743fd89d8e7fb2ebea29",
+    "keywords": [
+        "magicleap",
+        "ar",
+        "augmented",
+        "xr",
+        "reality",
+        "audio"
+    ],
+    "author": {
+    "name": "Magic Leap",
+    "url": "https://developer.magicleap.com/en-us/learn/guides/soundfield-user-guide-for-unity"
+    },
+        "samples": [
+          {
+            "displayName": "MSA Samples",
+            "description": "Demo Scene for MSA (Soundfield)",
+            "path": "Samples"
+          }
+        ]
+}
+
